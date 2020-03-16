@@ -1,6 +1,6 @@
 # TheSuperComputer
 Sebuah program sederhana berbasis C# memiliki fungsi Constructor dan Modifier
-Memiliki 6 Class serta Program :
+Memiliki 6 Class serta Program  :
   1. Computer
   2. Monitor
   3. Printer
